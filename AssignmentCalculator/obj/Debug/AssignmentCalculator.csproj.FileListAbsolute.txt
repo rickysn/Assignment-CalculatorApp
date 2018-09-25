@@ -1,0 +1,10 @@
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\bin\Debug\AssignmentCalculator.exe.config
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\bin\Debug\AssignmentCalculator.exe
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\bin\Debug\AssignmentCalculator.pdb
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\obj\Debug\AssignmentCalculator.csprojAssemblyReference.cache
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\obj\Debug\AssignmentCalculator.Form1.resources
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\obj\Debug\AssignmentCalculator.Properties.Resources.resources
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\obj\Debug\AssignmentCalculator.csproj.GenerateResource.cache
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\obj\Debug\AssignmentCalculator.csproj.CoreCompileInputs.cache
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\obj\Debug\AssignmentCalculator.exe
+E:\Pemrograman\AssignmentCalculator\AssignmentCalculator\obj\Debug\AssignmentCalculator.pdb
